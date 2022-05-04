@@ -1,0 +1,32 @@
+.header {
+  background-color: rgb(199, 134, 199);
+  text-align: center;
+  padding: 20px 0;
+}
+a {
+  margin-left: 16px;
+  margin-right: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+img {
+  width: 75%;
+}
+.blog {
+  width: 600px;
+  margin: 0 auto;
+}
+.time { margin: 20px 0;
+
+}
+
+time {
+  color: rgb(60, 88, 252);
+  
+}
+footer{background-color: rgb(144,144,231);
+padding: 20px 0;
+text-align: center;
+font-size: larger;
+
+}
